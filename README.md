@@ -2,12 +2,7 @@
 
 A Custom Dual-Pathway Deep Learning Architecture (DenseNet + EfficientNet) for 4-Class Alzheimer's MRI Detection. Achieved 97.34% accuracy with 1.00 Precision on severe cases.
 
-![Real-World Inference Grid](<images/The 6-Brain Inference Grid.jpg>)
-``` *(Or remove the `images/` part if it is in your main folder).*
-
-**To test it:** When you are editing your `README.md` file, there is a **Preview** tab right next to the **Edit** tab at the top of the text box. Click that! It will let you see if the image pops up before you even hit the commit button. 
-
-Check your repo's main page to see exactly where that file is sitting, and let me know if one of these fixes it!
+![Real-World Inference Grid](The%206-Brain%20Inference%20Grid.jpg)
 
 ---
 
