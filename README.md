@@ -2,7 +2,10 @@
 
 A Custom Dual-Pathway Deep Learning Architecture (DenseNet + EfficientNet) for 4-Class Alzheimer's MRI Detection. Achieved 97.34% accuracy with 1.00 Precision on severe cases.
 
-![Real-World Inference Grid](The%206-Brain%20Inference%20Grid.jpg)
+![Real-World Inference Grid]
+
+<img width="1990" height="373" alt="The 6-Brain Inference Grid" src="https://github.com/user-attachments/assets/8209d29e-b2ff-49b4-9939-42a984d13e63" />
+
 
 ---
 
