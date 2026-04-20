@@ -30,3 +30,11 @@ The final Phase 2 model was evaluated on unseen, real-world validation data. The
 The finalized `.keras` brain is optimized for lightweight, real-time inference. Below is a live demonstration of the model predicting an unseen MRI scan on a standard CPU with zero computational bottleneck.
 
 ![Live Diagnosis Demo](images/demo.png)
+
+
+## 💾 Dataset & Reproducibility
+The MRI scans used in this project are sourced from the publicly available Augmented Alzheimer's MRI Dataset. 
+* **Classes:** NonDemented, VeryMildDemented, MildDemented, ModerateDemented.
+* **Format:** 224x224 RGB Images.
+
+*Note: Due to GitHub's file size limits, the 97.34% pre-trained `.keras` model and the raw dataset are hosted externally. Please reach out for the Google Drive access links if you wish to run the live inference module.*
