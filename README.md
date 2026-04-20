@@ -33,7 +33,7 @@ The finalized `.keras` brain is optimized for lightweight, real-time inference. 
 
 
 ## 💾 Dataset & Reproducibility
-The MRI scans used in this project are sourced from the publicly available Augmented Alzheimer's MRI Dataset. 
+The MRI scans used in this project are sourced from the publicly available Augmented Alzheimer MRI Dataset. (https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset)
 * **Classes:** NonDemented, VeryMildDemented, MildDemented, ModerateDemented.
 * **Format:** 224x224 RGB Images.
 
